@@ -1,0 +1,56 @@
+.Courasel_Container {
+    text-align: center;
+    width: 350px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.First_Slide {
+    display: flex;
+    height: 160px;
+    color: #fff;
+    line-height: 160px;
+    text-align: center;
+    object-fit: contain;
+    justify-content: center;
+}
+
+.Second_Slide {
+    display: flex;
+    height: 160px;
+    color: #fff;
+    line-height: 160px;
+    text-align: center;
+    object-fit: contain;
+    justify-content: center;
+}
+
+.Third_Slide {
+    display: flex;
+    height: 160px;
+    color: #fff;
+    line-height: 160px;
+    text-align: center;
+    object-fit: contain;
+    justify-content: center;
+}
+
+.Fourth_Slide {
+    display: flex;
+    height: 160px;
+    color: #fff;
+    line-height: 160px;
+    text-align: center;
+    object-fit: contain;
+    justify-content: center;
+}
+
+.Fifth_Slide {
+    display: flex;
+    height: 160px;
+    color: #fff;
+    line-height: 160px;
+    text-align: center;
+    object-fit: contain;
+    justify-content: center;
+}
